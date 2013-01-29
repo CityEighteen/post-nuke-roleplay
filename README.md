@@ -1,6 +1,11 @@
-PNRP
-====
-#Reporting Issues
+City Eighteen Post Nuke Roleplay Issue Tracker
+======================
+This Github has been set up for managing issues and suggestions using Github's Issue Tracker.
+
+It serves no other purpose than for managing issues and suggestions.
+
+Reporting Issues
+----------------
 If you encounter an issue while playing on City Eighteen's Post Nuke Roleplay, first search the issue list to see if it has already been reported. Include closed issues in your search.
 
 If it has not been reported, create a new issue with at least the following information:
@@ -10,9 +15,10 @@ a detailed description of the issue, including any output from the command line;
 steps for reproducing the issue; and
 steps for reproducing the issue.
 
-Please place logs either in a code block (press M in your browser for a GFM cheat sheet) or a gist.
+Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
 
-#Suggesting Features
+Suggesting Features
+----------------
 If you would like to suggest something new for the gamemode, first search the issue list to see if it has already been reported. Include closed issues in your search.
 
 If it has not been suggested, create a new issue with at least the following information:
@@ -21,7 +27,8 @@ a short, descriptive title;
 a detailed description of the suggestion and
 any resources which may assist with the suggestion
 
-#Conduct
+Conduct
+----------------
 There are basic rules of conduct that should be followed at all times by everyone participating in the discussions. While this is generally a relaxed environment, please remember the following:
 
 * Do not insult, harass, or demean anyone.
