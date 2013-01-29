@@ -10,10 +10,10 @@ If you encounter an issue while playing on City Eighteen's Post Nuke Roleplay, f
 
 If it has not been reported, create a new issue with at least the following information:
 
-a short, descriptive title;
-a detailed description of the issue, including any output from the command line;
-steps for reproducing the issue; and
-steps for reproducing the issue.
+* a short, descriptive title;
+* a detailed description of the issue, including any output from the command line;
+* steps for reproducing the issue; and
+* steps for reproducing the issue.
 
 Please place logs either in a code block (press `M` in your browser for a GFM cheat sheet) or a [gist](https://gist.github.com).
 
@@ -23,9 +23,9 @@ If you would like to suggest something new for the gamemode, first search the is
 
 If it has not been suggested, create a new issue with at least the following information:
 
-a short, descriptive title;
-a detailed description of the suggestion and
-any resources which may assist with the suggestion
+* a short, descriptive title;
+* a detailed description of the suggestion and
+* any resources which may assist with the suggestion
 
 Conduct
 ----------------
